@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a101935-1146-4fed-a87c-d1bee6c46de6" name="AILAB">
+        <fileTransfer rootFolder="/home/gpuadmin/ufoym_deepo_mount/2018112178" accessType="SFTP" host="210.94.194.136" port="5117" sshConfigId="e94a9aac-19ab-4555-9533-39983c1daca9" sshConfig="root@210.94.194.136:5117 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
